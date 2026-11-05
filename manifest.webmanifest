@@ -1,0 +1,18 @@
+{
+  "name": "Mis Brazos",
+  "short_name": "Mis Brazos",
+  "description": "Rutina de hipertrofia con mancuernas ajustables",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1826",
+  "theme_color": "#0c1826",
+  "icons": [
+    {
+      "src": "./icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
